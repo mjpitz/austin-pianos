@@ -55,7 +55,7 @@ Upright. Located next to the cigarette machine.
 
 <tr><td align="center">
 
-<img width="200" src="https://lh3.googleusercontent.com/p/AF1QipN39DLK-IkNkY10wiWQZczgKwNiSaiKr7-jWhf7=s680-w680-h510"/>
+<img width="200" src="assets/images/juiceland-4th-brazos.jpg"/>
 
 </td><td valign="top">
 
