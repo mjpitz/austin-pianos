@@ -11,9 +11,7 @@ around to playing them all. I'm sure theres more so if you know of them or have 
 <div align="center">
 <table>
 <tr><td align="center">
-
-
-<img width="200" src="assets/images/windsor-park.jpg" />
+<img width="200" src="assets/images/windsor-park.jpg"/>
 
 </td><td valign="top">
 
@@ -21,12 +19,9 @@ around to playing them all. I'm sure theres more so if you know of them or have 
 
 Upright Grand. Tuned fairly well, a few notes are out but otherwise playable.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="300" src="https://media-cdn.tripadvisor.com/media/photo-s/02/36/c6/ed/seating-and-bar-area.jpg"/>
 
 </td><td valign="top">
@@ -35,12 +30,9 @@ Upright Grand. Tuned fairly well, a few notes are out but otherwise playable.
 
 Baldwin Baby Grand. They do Live Music at their Sunday Brunches.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="300" src="https://lh3.googleusercontent.com/p/AF1QipOeJEhrZawnhxeC1kR4nXXRqZCZoNPQc-tenWSb=s680-w680-h510"/>
 
 </td><td valign="top">
@@ -49,26 +41,20 @@ Baldwin Baby Grand. They do Live Music at their Sunday Brunches.
 
 Upright. Located next to the cigarette machine.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="200" src="assets/images/juiceland-4th-brazos.jpg"/>
 
 </td><td valign="top">
 
 ### Juiceland - 4th and Brazos
 
-Upright.
+Upright. Well tuned, small location and the music they usually play is loud.
+
 
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="300" src="https://lh3.googleusercontent.com/p/AF1QipNWi3T4ReFpjLBzjilQPTUPxl_r-1WZ-M9IQy4L=s680-w680-h510"/>
 
 </td><td valign="top">
@@ -77,28 +63,23 @@ Upright.
 
 Upright.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="300" src="https://www.lucidpianos.com/wp-content/uploads/2020/04/9-custompiano-fairmonthotel-austintx-lucididyllicexcellence.jpg"/>
 
 </td><td valign="top">
 
 ### Fairmont Austin - Red River
 
-Grand piano. "Crystal".
+I'm pretty sure this location has two pianos. There's the clear grand from Lucid, and then I saw a black baby
+grand walking by there the other day. Wanted to go in to check them out but was too nervous.
 
-Source: [Lucid Pianos](https://www.lucidpianos.com/portfolio/custom-piano-fairmont-hotel-austin-tx/)
+Sources:
+- [Lucid Pianos](https://www.lucidpianos.com/portfolio/custom-piano-fairmont-hotel-austin-tx/)
 
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="200" src="https://lh3.googleusercontent.com/p/AF1QipObS3eTNjr-utSbgGfGNsaGLvNk3vdJ118rgq8j=s680-w680-h510"/>
 
 </td><td valign="top">
@@ -107,12 +88,9 @@ Source: [Lucid Pianos](https://www.lucidpianos.com/portfolio/custom-piano-fairmo
 
 Upright. By the entrance to the Stassney Lane location.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="200" src="https://lh3.googleusercontent.com/p/AF1QipMWstQRFZyOxX9MNwIhWigKrqIAixm-fh8N8yMc=s680-w680-h510"/>
 
 </td><td valign="top">
@@ -121,12 +99,9 @@ Upright. By the entrance to the Stassney Lane location.
 
 Upright. Reported to be out of Tune.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="300" src="https://lh3.googleusercontent.com/p/AF1QipNxFp_uBaAzZ2VStXSQeE-uz9WluTXs2j2UnVMs=s680-w680-h510"/>
 
 </td><td valign="top">
@@ -135,12 +110,9 @@ Upright. Reported to be out of Tune.
 
 Upright grand. Status unknown.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
-
 <img width="200" src="https://lh3.googleusercontent.com/p/AF1QipOznsMxvFAyPM7il5n9WYMW9_ramJYoDToQcN1x=s680-w680-h510"/>
 
 </td><td valign="top">
@@ -149,36 +121,29 @@ Upright grand. Status unknown.
 
 Upright grand. Status unknown.
 
+
 </td></tr>
-
-
-
 <tr><td align="center">
+
 </td><td valign="top">
 
 ### Planet K - Lamar
 
 Looks like they may have an upright outside from one photo I saw online. Status unknown.
 
+
 </td></tr>
-
-
-
-
 <tr><td align="center">
+<img width="300" src="assets/images/white-horse.png"/>
+
 </td><td valign="top">
 
-### White Hourse
+### White Horse
 
-Unverified.
+Upright. By the outdoor area, just inside where the pool table is. Status unknown.
+
 
 </td></tr>
-
-<!--
-<tr><td align="center">
-</td><td valign="top">
-</td></tr>
--->
 
 </table>
 </div>
