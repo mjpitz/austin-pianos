@@ -7,32 +7,15 @@ import (
 	"flag"
 	"log"
 	"os"
+	"strings"
 	"text/template"
 
+	"github.com/Masterminds/sprig/v3"
 	"gopkg.in/yaml.v3"
 )
 
 //go:embed readme.md.gotmpl
 var ReadmeTemplate string
-
-type Source struct {
-	Name string `json:"name" yaml:"name"`
-	URL  string `json:"url" yaml:"url"`
-}
-
-type Record struct {
-	Title       string   `json:"title" yaml:"title"`
-	Description string   `json:"description" yaml:"description"`
-	Sources     []Source `json:"sources,omitempty" yaml:"sources"`
-	Image       struct {
-		Width  int    `json:"width,omitempty" yaml:"width"`
-		Source string `json:"src,omitempty" yaml:"src"`
-	} `json:"image,omitempty" yaml:"image"`
-}
-
-type DB struct {
-	Data []Record `json:"data" yaml:"data"`
-}
 
 type Application struct {
 	Config struct {
@@ -53,7 +36,14 @@ func (app *Application) loadTemplate() {
 	}
 
 	log.Println("[TEMPLATE] parsing contents")
-	app.Template, app.err = template.New("gen").Parse(ReadmeTemplate)
+	app.Template, app.err = template.New("gen").
+		Funcs(sprig.FuncMap()).
+		Funcs(map[string]any{
+			"urlenc": func(in string) string {
+				return strings.ReplaceAll(in, "-", "·")
+			},
+		}).
+		Parse(ReadmeTemplate)
 }
 
 func (app *Application) loadDB() {

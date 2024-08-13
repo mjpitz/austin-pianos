@@ -19,7 +19,10 @@ around to playing them all. I'm sure there's more so if you know of them or have
 
 ### Austin Public Library - Windsor Park
 
-Upright Grand. Tuned fairly well, a few notes are out but otherwise playable.
+![Status: playable](https://img.shields.io/badge/status-playable-gray?style=for-the-badge)
+![Last visited: 2024-08-03](https://img.shields.io/badge/last_visited-2024·08·03-gray?style=for-the-badge)
+
+Upright Grand. Tuned fairly well, a few notes are out but otherwise good.
 
 
 </td></tr>
@@ -29,6 +32,8 @@ Upright Grand. Tuned fairly well, a few notes are out but otherwise playable.
 </td><td valign="top">
 
 ### Chez Zee - Balcones Dr
+
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
 
 Baldwin Baby Grand. They do Live Music at their Sunday Brunches.
 
@@ -41,6 +46,8 @@ Baldwin Baby Grand. They do Live Music at their Sunday Brunches.
 
 ### King Bee - 12th
 
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
+
 Upright. Located next to the cigarette machine.
 
 
@@ -51,6 +58,9 @@ Upright. Located next to the cigarette machine.
 </td><td valign="top">
 
 ### Juiceland - 4th and Brazos
+
+![Status: playable](https://img.shields.io/badge/status-playable-gray?style=for-the-badge)
+![Last visited: 2024-08-05](https://img.shields.io/badge/last_visited-2024·08·05-gray?style=for-the-badge)
 
 Upright. Well tuned, small location and the music they usually play is loud.
 
@@ -63,6 +73,8 @@ Upright. Well tuned, small location and the music they usually play is loud.
 
 ### Chick-fil-a - Braker and 183
 
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
+
 Upright.
 
 
@@ -73,6 +85,9 @@ Upright.
 </td><td valign="top">
 
 ### Fairmont Austin - Red River
+
+![Status: confirmed](https://img.shields.io/badge/status-confirmed-gray?style=for-the-badge)
+![Last visited: 2014-08-07](https://img.shields.io/badge/last_visited-2014·08·07-gray?style=for-the-badge)
 
 I'm pretty sure this location has two pianos. There's the clear grand from Lucid, and then I saw a black baby
 grand walking by there the other day. Wanted to go in to check them out but was too nervous.
@@ -88,6 +103,8 @@ Sources:
 
 ### Planet K - Stassney
 
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
+
 Upright. By the entrance to the Stassney Lane location.
 
 
@@ -98,6 +115,8 @@ Upright. By the entrance to the Stassney Lane location.
 </td><td valign="top">
 
 ### Planet K - Bee Cave
+
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
 
 Upright. Reported to be out of Tune.
 
@@ -110,18 +129,23 @@ Upright. Reported to be out of Tune.
 
 ### Planet K - Round Rock
 
-Upright grand. Status unknown.
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
+
+Upright grand.
 
 
 </td></tr>
 <tr><td align="center">
-<img width="200" src="https://lh3.googleusercontent.com/p/AF1QipOznsMxvFAyPM7il5n9WYMW9_ramJYoDToQcN1x=s680-w680-h510"/>
+<img width="300" src="assets/images/planet-k-ceasar-chavez.jpg"/>
 
 </td><td valign="top">
 
 ### Planet K - Cezar Chavez
 
-Upright grand. Status unknown.
+![Status: unplayable](https://img.shields.io/badge/status-unplayable-gray?style=for-the-badge)
+![Last visited: 2024-08-12](https://img.shields.io/badge/last_visited-2024·08·12-gray?style=for-the-badge)
+
+Upright grand. Some sections held tune, but its missing lots of black key tops.
 
 
 </td></tr>
@@ -131,7 +155,9 @@ Upright grand. Status unknown.
 
 ### Planet K - Lamar
 
-Looks like they may have an upright outside from one photo I saw online. Status unknown.
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
+
+Looks like they may have an upright outside from one photo I saw online.
 
 
 </td></tr>
@@ -142,7 +168,9 @@ Looks like they may have an upright outside from one photo I saw online. Status 
 
 ### White Horse
 
-Upright. By the outdoor area, just inside where the pool table is. Status unknown.
+![Status: reported](https://img.shields.io/badge/status-reported-gray?style=for-the-badge)
+
+Upright. By the outdoor area, just inside where the pool table is.
 
 
 </td></tr>

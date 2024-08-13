@@ -24,6 +24,12 @@ around to playing them all. I'm sure there's more so if you know of them or have
 
 ### {{ .Title }}
 
+![Status: {{ .Status }}](https://img.shields.io/badge/status-{{ .Status }}-gray?style=for-the-badge)
+
+{{- if .LastVisited }}
+![Last visited: {{ .LastVisited }}](https://img.shields.io/badge/last_visited-{{ .LastVisited | urlenc }}-gray?style=for-the-badge)
+{{- end }}
+
 {{ .Description }}
 
 {{- with .Sources }}
