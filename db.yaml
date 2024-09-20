@@ -108,3 +108,21 @@ data:
     image:
       width: 300
       src: assets/images/white-horse.png
+
+  - title: Hilton Austin - 4th Floor
+    description: |
+      Grand. Reservable by events. Playable if no events are going on and isn't locked up.
+    last_visited: 2024-09-04
+    status: playable
+    image:
+      width: 300
+      src: assets/images/hilton-austin-4th.jpg
+
+  - title: Hilton Austin - 6th Floor
+    description: |
+      Grand. Reservable by events. Playable if no events are going on and isn't locked up.
+    last_visited: 2024-09-04
+    status: playable
+    image:
+      width: 300
+      src: assets/images/hilton-austin-6th.jpg

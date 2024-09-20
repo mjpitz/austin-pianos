@@ -174,6 +174,34 @@ Upright. By the outdoor area, just inside where the pool table is.
 
 
 </td></tr>
+<tr><td align="center">
+<img width="300" src="assets/images/hilton-austin-4th.jpg"/>
+
+</td><td valign="top">
+
+### Hilton Austin - 4th Floor
+
+![Status: playable](https://img.shields.io/badge/status-playable-gray?style=for-the-badge)
+![Last visited: 2024-09-04](https://img.shields.io/badge/last_visited-2024·09·04-gray?style=for-the-badge)
+
+Grand. Reservable by events. Playable if no events are going on and isn't locked up.
+
+
+</td></tr>
+<tr><td align="center">
+<img width="300" src="assets/images/hilton-austin-6th.jpg"/>
+
+</td><td valign="top">
+
+### Hilton Austin - 6th Floor
+
+![Status: playable](https://img.shields.io/badge/status-playable-gray?style=for-the-badge)
+![Last visited: 2024-09-04](https://img.shields.io/badge/last_visited-2024·09·04-gray?style=for-the-badge)
+
+Grand. Reservable by events. Playable if no events are going on and isn't locked up.
+
+
+</td></tr>
 
 </table>
 </div>
